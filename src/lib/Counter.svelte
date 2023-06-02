@@ -39,5 +39,5 @@
 </script>
 
 <button on:click={increment}>
-  count is {count}
+  cccccchanges {count}
 </button>
